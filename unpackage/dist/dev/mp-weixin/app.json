@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/search",
+    "pages/reserve/reserve",
+    "pages/Service/Service",
+    "pages/Customers/Customers",
+    "pages/View/View",
+    "pages/Service/Examine/Examine"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3A82F8",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/a.png",
+        "selectedIconPath": "static/a-a.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/reserve/reserve",
+        "iconPath": "static/b.png",
+        "selectedIconPath": "static/b-b.png",
+        "text": "预定指南"
+      },
+      {
+        "pagePath": "pages/Service/Service",
+        "iconPath": "static/c.png",
+        "selectedIconPath": "static/c-c.png",
+        "text": "带驾服务"
+      },
+      {
+        "pagePath": "pages/Customers/Customers",
+        "iconPath": "static/d.png",
+        "selectedIconPath": "static/d-d.png",
+        "text": "客户服务"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

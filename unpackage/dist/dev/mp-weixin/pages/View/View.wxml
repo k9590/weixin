@@ -1,0 +1,1 @@
+<view><u-navbar vue-id="7af0eda0-1" back-text="返回" title="服务项目" bind:__l="__l"></u-navbar><view class="Top"></view><view class="content"><image class="Img _img" src="https://s1.ax1x.com/2022/10/23/xgcVqx.jpg" data-event-opts="{{[['tap',[['tiaozhuan',['$event']]]]]}}" bindtap="__e"></image></view></view>

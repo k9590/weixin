@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 头部 */
+.Top {
+	width: 100%;
+	height: 150rpx;
+	background: #f4f4f4;
+}
+/* 搜索框  表格  轮播 */
+.content {
+	width: 100%;
+	height: 360rpx;
+	background: #f4f4f4;
+	/* border-bottom-left-radius: 80rpx; */
+	/* border-bottom-right-radius: 80rpx; */
+	text-align: center;
+}
+/* 搜索框 */
+.seec {
+	display: flex;
+	align-items: center;
+	padding: 0 20rpx;
+	width: 90%;
+	height: 60rpx;
+	color: #919191;
+	font-size: 15;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 50rpx;
+}
+/* 表格 */
+.Tabulation {
+	margin: 15rpx 0;
+}
+.tabulation {
+	margin: 0 auto;
+	width: 90%;
+	bg-color: #000;
+}
+.u-tr {
+	text-align: center;
+}
+.u-tr ._img {
+	width: 60rpx;
+	height: 60rpx;
+}
+.Tabulation {
+	display: flex;
+}
+/* 轮播 */
+.swiper_box {
+	width: 100%;
+	height: 350rpx;
+	border: #0000ff;
+	margin: 0 auto;
+	margin-top: 15rpx;
+	box-shadow: 0 0 15rpx #a9a5a0;
+	/* border-radius: 20rpx; */
+	overflow: hidden;
+}
+
+
+.hullbottom {
+	margin-top: 400rpx;
+}
+/* 标题 */
+.Caption {
+	text-align: center;
+	margin: 50% 0;
+}
+/* 横向滚动 */
+.scroll-view_H {
+	white-space: nowrap;
+	width: 100%;
+	display: flex;
+	flex-wrap: nowrap;
+}
+.scroll-view-item_H {
+	display: inline-block;
+	width: 40%;
+	height: 300rpx;
+	line-height: 40rpx;
+	text-align: center;
+	/* font-size: 36rpx; */
+}
+.u-card-wrap {
+	background-color: $u-bg-color;
+	padding: 1px;
+}
+.u-body-item {
+	font-size: 32rpx;
+	color: #333;
+	padding: 20rpx 10rpx;
+}
+.u-body-item image {
+	width: 120rpx;
+	flex: 0 0 120rpx;
+	height: 120rpx;
+	border-radius: 8rpx;
+	margin-left: 12rpx;
+}
+.xhss ._img {
+	width: 80%;
+	height: 200rpx;
+}
+

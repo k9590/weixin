@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-section": "/node-modules/uview-ui/components/u-section/u-section",
+    "u-divider": "/node-modules/uview-ui/components/u-divider/u-divider",
+    "u-field": "/node-modules/uview-ui/components/u-field/u-field",
+    "u-calendar": "/node-modules/uview-ui/components/u-calendar/u-calendar",
+    "u-action-sheet": "/node-modules/uview-ui/components/u-action-sheet/u-action-sheet",
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

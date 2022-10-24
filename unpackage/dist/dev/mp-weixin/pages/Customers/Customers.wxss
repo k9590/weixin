@@ -1,0 +1,49 @@
+
+.topimg {
+	width: 100%;
+	height: 400rpx;
+}
+.top {
+	height: 340rpx;
+	background: #f4f4f4;
+}
+.wenben {
+	/* margin-top: 10rpx; */
+	margin-left: 10rpx;
+}
+.bt {
+	height: 30rpx;
+	line-height: 30rpx;
+	color: #3982f7;
+	font-size: 30rpx;
+	margin-top: 15rpx;
+}
+.yangshi {
+	margin-bottom: 10rpx;
+}
+.bottle {
+	width: 100%;
+	height: 250rpx;
+	background-image: url('https://s1.ax1x.com/2022/10/22/xcXKUg.jpg');
+	background-size: 100% auto;
+}
+.weizhi{
+	padding-top: 7%;
+	line-height: 70rpx;
+	padding-left: 7%;
+}
+.lxkf{
+	width: 200rpx;
+	height: 70rpx;
+	text-align: center;
+	line-height: 70rpx;
+	background: #fff;
+	color: #F89101;
+}
+.u-content {
+		margin-top: 100rpx;
+		color: $u-content-color;
+		font-size: 29rpx;
+		line-height:2;
+}
+

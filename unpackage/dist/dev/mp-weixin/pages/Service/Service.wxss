@@ -1,0 +1,22 @@
+
+.topimg {
+	width: 100%;
+	height: 400rpx;
+}
+.top {
+	height: 420rpx;
+	background: #f4f4f4;
+}
+.fuwuleixing {
+	width: 95%;
+	height: 400rpx;
+	margin: 0 auto;
+}
+.riqi {
+	width: 70%;
+	margin-left: 5%;
+	height: 60rpx;
+	color: #d5d5d5;
+	/* background: #000; */
+}
+
